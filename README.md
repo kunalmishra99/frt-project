@@ -50,23 +50,38 @@ Vs code
 ## Microsoft azure screen shots:
 
 ![azue 1](https://github.com/kunalmishra99/frt-project/assets/128613065/db2779a4-db59-4e57-a7d5-c25a505e4744)
+
 # resource group
+
 ![azure 4](https://github.com/kunalmishra99/frt-project/assets/128613065/d2e7ba9c-93da-4684-ad67-4d1e59c53c29)
+
 # static web app
+
 ![azure 3](https://github.com/kunalmishra99/frt-project/assets/128613065/2d33586b-a508-44b5-9b2b-c84fb363443b)
+
 # health bot
+
 ![azure 2](https://github.com/kunalmishra99/frt-project/assets/128613065/6a9db0d0-3520-4e0d-a9a8-de7bbb79d810)
 
 ## Gaming website screen shots
 # home page
+
 ![Home page](https://github.com/kunalmishra99/frt-project/assets/128613065/5f0a0d5e-684d-45f2-b288-9e58877d79ea)
+
 # game page
+
 ![game page ](https://github.com/kunalmishra99/frt-project/assets/128613065/b1808bd4-256f-431a-abb0-f254ac39cd1d)
+
 # blog page
+
 ![blog page](https://github.com/kunalmishra99/frt-project/assets/128613065/7649e9f7-2e6e-4290-9195-38c3b8681755)
+
  # contact us page
+ 
 ![contact us page](https://github.com/kunalmishra99/frt-project/assets/128613065/394dfd95-5590-43ef-8331-6e8ba348dd63)
+
 # health bot page
+
 ![health bot page](https://github.com/kunalmishra99/frt-project/assets/128613065/d17fd2fb-fe1c-4be0-bfa5-8b6f59cbda18)
 
 
