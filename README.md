@@ -1,6 +1,8 @@
 # frt-project
 # gaming blog website : 
  ## https://zealous-sea-0c1ec4c10.3.azurestaticapps.net
+ # FRT PROJECT DEMO VIDEO 
+ https://youtu.be/5nZOFcK53mI
 # Project Statement:
 In my website I create a gaming website where people can knew about the games that are launching and their Launch dates learn how to play games and download games and can check their health by using health bot
 
