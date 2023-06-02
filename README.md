@@ -46,3 +46,8 @@ Vs code
 8.Finally my website was deployed on the azure web services and ready to use...
 
 # Microsoft azure screen shots:
+
+![azue 1](https://github.com/kunalmishra99/frt-project/assets/128613065/db2779a4-db59-4e57-a7d5-c25a505e4744)
+![azure 4](https://github.com/kunalmishra99/frt-project/assets/128613065/d2e7ba9c-93da-4684-ad67-4d1e59c53c29)
+![azure 3](https://github.com/kunalmishra99/frt-project/assets/128613065/2d33586b-a508-44b5-9b2b-c84fb363443b)
+![azure 2](https://github.com/kunalmishra99/frt-project/assets/128613065/6a9db0d0-3520-4e0d-a9a8-de7bbb79d810)
