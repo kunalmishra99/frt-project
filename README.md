@@ -63,7 +63,8 @@ Vs code
 
 ![azure 2](https://github.com/kunalmishra99/frt-project/assets/128613065/6a9db0d0-3520-4e0d-a9a8-de7bbb79d810)
 
-## Gaming website screen shots
+## Gaming website screen shots 
+
 # home page
 
 ![Home page](https://github.com/kunalmishra99/frt-project/assets/128613065/5f0a0d5e-684d-45f2-b288-9e58877d79ea)
