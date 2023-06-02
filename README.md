@@ -1,7 +1,7 @@
 # frt-project
-# deployment URL from azure of my gaming website  : https://zealous-sea-0c1ec4c10.3.azurestaticapps.net
+#  Project Demo URL from azure   : https://zealous-sea-0c1ec4c10.3.azurestaticapps.net
 
-# FRT PROJECT DEMO VIDEO or demo video url :  https://youtu.be/5nZOFcK53mI
+# Project Demo Video URL :  https://youtu.be/5nZOFcK53mI
 # Project Statement:
 In my website I create a gaming website where people can knew about the games that are launching and their Launch dates learn how to play games and download games and can check their health by using health bot
 
@@ -44,3 +44,5 @@ Vs code
 7.After that I started my static web app service and deployed my website on azure static web app service.
 
 8.Finally my website was deployed on the azure web services and ready to use...
+
+# Microsoft azure screen shots:
